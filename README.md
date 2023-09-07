@@ -27,7 +27,7 @@ Objective: Help the nonprofit foundation Alphabet Soup with a machine learning-n
 
 ![image](https://github.com/humaalam11/deep-learning-challenge/assets/130116747/80855cac-f4f9-4db6-a7cb-68b13b047b1a)
 
-3) Tested the model and saved the model
+3) Tested the model and Saved the model
 
    ![image](https://github.com/humaalam11/deep-learning-challenge/assets/130116747/89ba356a-ac90-4412-b378-4b63543cf580)
 
