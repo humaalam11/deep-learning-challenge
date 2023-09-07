@@ -6,7 +6,8 @@ Objective: Help the nonprofit foundation Alphabet Soup with a machine learning-n
 
 **We will be training:**
 
-y = IS_SUCCESSFUL
+**y** = IS_SUCCESSFUL
+
 **X** = EIN, NAME, APPLICATION_TYPE, AFFLIATION, CLASSIFICATION, USE_CASE,
     ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATION, ASK_AMT
 
